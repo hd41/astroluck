@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/astroluck/static/css/main.299d490e.css",
+    "main.js": "/astroluck/static/js/main.b89e8bf4.js",
+    "static/js/453.c231ad3c.chunk.js": "/astroluck/static/js/453.c231ad3c.chunk.js",
+    "index.html": "/astroluck/index.html",
+    "main.299d490e.css.map": "/astroluck/static/css/main.299d490e.css.map",
+    "main.b89e8bf4.js.map": "/astroluck/static/js/main.b89e8bf4.js.map",
+    "453.c231ad3c.chunk.js.map": "/astroluck/static/js/453.c231ad3c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.299d490e.css",
+    "static/js/main.b89e8bf4.js"
+  ]
+}
