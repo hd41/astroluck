@@ -49,7 +49,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>✨ Cosmic Insights ✨</h1>
+        <h1>✨ Cosmic Insights(By Rahul Kaushik) ✨</h1>
         <form onSubmit={handleCalculate}>
           <label>Enter your Birth Date:</label>
           <input type="date" onChange={(e) => setBirthDate(e.target.value)} />
